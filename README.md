@@ -1,2 +1,2 @@
-# desafio-dio-codegirls
-Desafio do Bootcamp Code Girls - Java 
+# desafio-dio-database
+Desafio do Bootcamp Database Experience
